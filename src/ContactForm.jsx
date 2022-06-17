@@ -10,6 +10,7 @@ const ContactForm = () => {
         <label>Request</label>
         <input type="text" placeholder='request'/>
         <button>Send Request</button>
+        {/* On click send an email to Mom at a custom domain */}
     </div>
   )
 }

@@ -195,6 +195,7 @@ const AustinGallery = () => {
         </div>
       ))} */}
       <h1>Pics of Austin will go here soon.</h1>
+      {/* Create as slideshow, with captions */}
     </div>
   )
 }
